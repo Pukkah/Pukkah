@@ -1,8 +1,10 @@
-## 👋 Well, hello there...
+## 🔥 Stay awhile, and listen!
 
 My name is Miks Ramāns.
 
 I am an aspiring Software Developer from Latvia with passion for Game Design and Free Open Source Software.
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=darcula&animation=default&layout=default&font=default&quotesUrl=https://raw.githubusercontent.com/Pukkah/Pukkah/main/assets/quotes.json)
 
 ### 🛠️ Technologies and tools
 
@@ -15,6 +17,8 @@ I am an aspiring Software Developer from Latvia with passion for Game Design and
 [![Git](https://img.shields.io/badge/_Git-teal?logo=git&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/_IntelliJ_IDEA-teal?logo=intellijidea&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-teal?logo=visualstudiocode&logoColor=white)](#)
+
+
 
 
 <!--
