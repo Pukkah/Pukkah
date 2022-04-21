@@ -1,4 +1,21 @@
-### Hi there 👋
+## 👋 Well, hello there...
+
+My name is Miks Ramāns.
+
+I am an aspiring Software Developer from Latvia with passion for Game Design and Free Open Source Software.
+
+### 🛠️ Technologies and tools
+
+[![Java](https://img.shields.io/badge/_Java-teal?logo=java&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/_Spring-teal?logo=spring&logoColor=white)](#)
+[![Maven](https://img.shields.io/badge/_Maven-teal?logo=apachemaven&logoColor=white)](#)
+[![Gradle](https://img.shields.io/badge/_Gradle-teal?logo=gradle&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/_TypeScript-teal?logo=typescript&logoColor=white)](#)
+[![Godot](https://img.shields.io/badge/_Godot-teal?logo=godotengine&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/_Git-teal?logo=git&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/_IntelliJ_IDEA-teal?logo=intellijidea&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-teal?logo=visualstudiocode&logoColor=white)](#)
+
 
 <!--
 **Pukkah/Pukkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
