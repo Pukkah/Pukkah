@@ -30,6 +30,7 @@ Writen using GDScript and JavaScript.
 [![Maven](https://img.shields.io/badge/_Maven-1c1c1c?logo=apachemaven&logoColor=C71A36)](#-technologies-and-tools)
 [![Gradle](https://img.shields.io/badge/_Gradle-1c1c1c?logo=gradle&logoColor=02303A)](#-technologies-and-tools)
 [![JUnit5](https://img.shields.io/badge/JUnit5-1c1c1c?logo=junit5&logoColor=25A162)](#-technologies-and-tools)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1c?logo=postgresql&logoColor=4169E1)](#-technologies-and-tools)
 [![Git](https://img.shields.io/badge/_Git-1c1c1c?logo=git&logoColor=F05032)](#-technologies-and-tools)
 [![IntelliJ IDEA](https://img.shields.io/badge/_IntelliJ_IDEA-1c1c1c?logo=intellijidea&logoColor=white)](#-technologies-and-tools)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1c1c1c?logo=visualstudiocode&logoColor=007ACC)](#-technologies-and-tools)
@@ -43,6 +44,7 @@ Writen using GDScript and JavaScript.
 [![CSS3](https://img.shields.io/badge/CSS3-1c1c1c?logo=css3&logoColor=1572B6)](#-currently-learning--improving-on)
 [![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?logo=javascript&logoColor=F7DF1E)](#-currently-learning--improving-on)
 [![TypeScript](https://img.shields.io/badge/_TypeScript-1c1c1c?logo=typescript&logoColor=3178C6)](#-currently-learning--improving-on)
+[![Docker](https://img.shields.io/badge/Docker-1c1c1c?logo=docker&logoColor=2496ED)](#-currently-learning--improving-on)
 
 ---
 
