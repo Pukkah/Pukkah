@@ -45,6 +45,7 @@ Writen using GDScript and JavaScript.
 [![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?logo=javascript&logoColor=F7DF1E)](#-currently-learning--improving-on)
 [![TypeScript](https://img.shields.io/badge/_TypeScript-1c1c1c?logo=typescript&logoColor=3178C6)](#-currently-learning--improving-on)
 [![Docker](https://img.shields.io/badge/Docker-1c1c1c?logo=docker&logoColor=2496ED)](#-currently-learning--improving-on)
+[![Groovy](https://img.shields.io/badge/Groovy-1c1c1c?logo=apachegroovy&logoColor=4298B8)](#-currently-learning--improving-on)
 
 ---
 
